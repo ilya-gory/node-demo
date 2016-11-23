@@ -1,0 +1,12 @@
+{
+  "name": "httpnode",
+  "version": "1.0.0",
+  "description": "skill proof nodejs",
+  "main": "index.js",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "author": "Ilya Goryachev <ilya.gory@yandex.ru>",
+  "license": "ISC"
+}
